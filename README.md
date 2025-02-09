@@ -1,4 +1,4 @@
-# generate-image-flux
+# video-to-stereo-3d
 
 ## Overview
 Takes a video file and generates a stereoscopic 3D side-by-side version using depth information computed with Depth Anything V2.
